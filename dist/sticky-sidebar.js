@@ -688,7 +688,7 @@
 
 	  // Global
 	  // -------------------------
-	  window.StickySidebar = StickySidebar;
+	//   window.StickySidebar = StickySidebar;
 	});
 	});
 
